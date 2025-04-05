@@ -10,7 +10,7 @@ The official Java SDK for integrating with the Geocode.Farm API. This SDK provid
 
 ## Installation
 
-To use the SDK in your Java project, you can either download the `.jar` file or clone the repository and build it yourself.
+To use the SDK in your Java project, you can either download the `.jar` file (see Releases) or clone the repository and build it yourself.
 
 ### Gradle
 
