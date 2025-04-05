@@ -7,7 +7,6 @@ The official Java SDK for integrating with the Geocode.Farm API. This SDK provid
 - **Forward Geocoding**: Convert an address into latitude and longitude.
 - **Reverse Geocoding**: Convert latitude and longitude into a human-readable address.
 - **Error Handling**: Handles errors gracefully, returning informative messages for easy debugging.
-- **Support for both address formats**: Can handle a variety of geolocation results from the API.
 
 ## Installation
 
